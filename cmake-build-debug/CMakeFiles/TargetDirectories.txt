@@ -1,0 +1,3 @@
+/Users/sarahnicholls/CLionProjects/playersroaster-nicholls-raiford/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sarahnicholls/CLionProjects/playersroaster-nicholls-raiford/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sarahnicholls/CLionProjects/playersroaster-nicholls-raiford/cmake-build-debug/CMakeFiles/PlayersRoasters.dir
