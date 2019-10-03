@@ -116,7 +116,6 @@ int main() {
     output(roster);
     aboveRating(roster);
 
-    unsigned int i;
     char menu;
 
     do {
@@ -135,22 +134,19 @@ int main() {
         if (menu == 'a') {
             addPlayer(roster);
         }
-
         //Delete
         else if (menu == 'd') {
             deletePlayer(roster);
         }
-
         //Update
         else if (menu == 'u') {
             updateRating(roster);
         }
-
         // > Rating
         else if (menu == 'r') {
             aboveRating(roster);
         }
-
+        //Output
         else if (menu == 'o'){
             output(roster);
         }
