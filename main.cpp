@@ -74,7 +74,6 @@ void deletePlayer(vector<Player>& v, int playerJersey = 0) {
         cout << "Jersey number not found\n" << endl;
     }
 }
-
 void updateRating(vector<Player>& v, int playerJersey = 0, int newRating = 0){
     //user inputs jersey and new rating
     cout << "Enter a jersey number:" << endl;
